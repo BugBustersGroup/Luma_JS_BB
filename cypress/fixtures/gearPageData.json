@@ -1,10 +1,14 @@
 {
-    "ExampleUrl": "https://magento.softwaretestingboard.com/gear.html",
-    
-    "FirstStringTitle": "Shop By",
-    "SecondStringTitle": "Category",
-    "FirstCategory": "Bags",
-    "SecondCategory": "Fitness Equipment",
-    "ThirdCategory": "Watches"
-}
+  "ExampleUrl": "https://magento.softwaretestingboard.com/gear.html",
 
+  "FirstStringTitle": "Shop By",
+  "SecondStringTitle": "Category",
+
+  "FirstCategory": "Bags",
+  "SecondCategory": "Fitness Equipment",
+  "ThirdCategory": "Watches",
+
+  "categoryMenu": ["Bags", "Fitness Equipment", "Watches"],
+
+  "dropDownMenu": ["Bags", "Fitness Equipment", "Watches"]
+}
